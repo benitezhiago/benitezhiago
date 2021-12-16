@@ -19,5 +19,5 @@
 < A  href =" https://github.com/anuraghazra/github-readme-stats " > 
   < img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ? username = benitezhiago & repo = github-leia-me-stats "/>
  </ a > 
-<img align="right" alt="Coding" width="100%" height="100" src="https://img.elo7.com.br/product/zoom/1360B39/painel-floresta-g-frete-gratis-tema-de-festa-infantil.jpg">
+<img align="right" alt="Coding" width="100%" height="400" object-fit="cover" src="https://img.elo7.com.br/product/zoom/1360B39/painel-floresta-g-frete-gratis-tema-de-festa-infantil.jpg">
 
