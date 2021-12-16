@@ -13,3 +13,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benitezhiago&show_icons=true&theme=radical)
+
+< A  href =" https://github.com/anuraghazra/github-readme-stats " > 
+  < img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ? username = benitezhiago & repo = github-leia-me-stats "/>
+ </ a > 
