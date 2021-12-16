@@ -17,3 +17,5 @@
 < A  href =" https://github.com/anuraghazra/github-readme-stats " > 
   < img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ? username = benitezhiago & repo = github-leia-me-stats "/>
  </ a > 
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
